@@ -3,6 +3,10 @@
     {"name": "Barnibas", "affiliation": "Athens", "hero": "Kassandra"},
     {"name": "Herodotus", "affiliation": "Athens", "hero": "Kassandra"},
     {"name": "Brasidas", "affiliation": "Sparta", "hero": "Kassandra"},
-    {"name": "Pythagoras", "affiliation": "Atlantis", "hero": "Kassandra"}
+    {"name": "Pythagoras", "affiliation": "Atlantis", "hero": "Kassandra"},
+    {"name": "Aspasia", "affiliation": "Athens", "hero": "Alexios"},
+    {"name": "Cult of Kosmos", "affiliation": "Chaos", "hero": "Alexios"},
+    {"name": "Kleon", "affiliation": "Athens", "hero": "Alexios"},
+    {"name": "The Oracle", "affiliation": "Cult of Kosmos", "hero": "Alexios"}
   ]
 }
